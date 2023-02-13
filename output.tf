@@ -1,0 +1,1 @@
+An output file to define output values that are generated when you apply a terraform configuration 
